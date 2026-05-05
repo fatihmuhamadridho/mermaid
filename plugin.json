@@ -5,7 +5,7 @@
   "main": "main.js",
   "version": "1.0.0",
   "readme": "readme.md",
-  "repository": "https://github.com/Acode-Foundation/acode-plugin.git",
+  "repository": "https://github.com/fatihmuhamadridho/mermaid.git",
   "icon": "icon.png",
   "minVersionCode": 290,
   "license": "MIT",
@@ -25,7 +25,7 @@
   "contributors": [
     {
       "name": "Fatih Muhamad Ridho",
-      "email": "fatihmuhamadridho1@gmail.com",
+      "role": "Author",
       "github": "fatihmuhamadridho"
     }
   ]

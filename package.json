@@ -1,10 +1,10 @@
 {
-  "name": "acode-plugin",
+  "name": "mermaid-preview",
   "version": "1.0.0",
-  "description": "Template for Acode plugin(Typescript)",
+  "description": "Acode plugin for previewing Mermaid diagrams in Markdown",
   "main": "dist/main.js",
-  "repository": "https://github.com/Acode-Foundation/AcodeTSTemplate.git",
-  "author": "Acode Foundation",
+  "repository": "https://github.com/fatihmuhamadridho/mermaid.git",
+  "author": "Fatih Muhamad Ridho",
   "license": "MIT",
   "dependencies": {
     "acode-plugin-types": "^1.11.7-patch.2",

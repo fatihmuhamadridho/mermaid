@@ -1,6 +1,6 @@
 {
   "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
-  "id": "acode.mermaid-preview",
+  "id": "mermaid_preview",
   "name": "Mermaid Preview",
   "main": "main.js",
   "version": "1.0.0",
@@ -21,5 +21,12 @@
     "name": "Fatih Muhamad Ridho",
     "email": "fatihmuhamadridho1@gmail.com",
     "github": "fatihmuhamadridho"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Fatih Muhamad Ridho",
+      "email": "fatihmuhamadridho1@gmail.com",
+      "github": "fatihmuhamadridho"
+    }
+  ]
 }
